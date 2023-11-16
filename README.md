@@ -25,6 +25,7 @@ This project is a weather application built with React and Material UI. It uses 
 - Refactor font family in theme
 - Units conversion (metric/imperial)
 - Refactor code
+- Make search history persistent
 #### Issue
 - Inconsistent weather result using location coordinate from /geo endpoint
 
