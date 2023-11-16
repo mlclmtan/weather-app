@@ -26,6 +26,7 @@ This project is a weather application built with React and Material UI. It uses 
 - Units conversion (metric/imperial)
 - Refactor code
 - Make search history persistent
+- Set up development container of this react application
 #### Issue
 - Inconsistent weather result using location coordinate from /geo endpoint
 
