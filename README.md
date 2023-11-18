@@ -27,6 +27,7 @@ This project is a weather application built with React and Material UI. It uses 
 - Refactor code
 - Make search history persistent
 - Set up development container of this react application
+- Add loader at initial visit
 #### Issue
 - Inconsistent weather result using location coordinate from /geo endpoint
 
